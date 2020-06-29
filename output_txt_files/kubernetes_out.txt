@@ -1,1 +1,6 @@
-<paste log output from Kubernetes-mediated prediction, here>
+(.devops) ubuntu:~/environment/Project-5 (master) $ ./run_kubernetes.sh
+Error from server (AlreadyExists): pods "udacity-project-five" already exists
+NAME                   READY   STATUS    RESTARTS   AGE
+udacity-project-five   1/1     Running   0          8m44s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
